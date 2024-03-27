@@ -1,0 +1,1 @@
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/MAANG_StockPrice_17115102961190/MAANGDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>  
