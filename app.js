@@ -2,7 +2,7 @@
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/shared/YB4C5KZFC?:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/views/MAANG_StockPrice_17115102961190/MAANGDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
